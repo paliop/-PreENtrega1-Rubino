@@ -5,7 +5,7 @@ import CartLogo from "/src/assets/images/cart3.svg"
 
 const CartWidget2 = () => {
   return (
-    <div>
+    <div style={{display:"grid", gridTemplateColumns:"80% 20%"}}>
     <button type="button" className="btn btn-warning" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">
 
         <img src={CartLogo} width="28"/>

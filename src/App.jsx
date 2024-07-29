@@ -3,16 +3,27 @@ import { useState } from 'react'
 import './App.css'
 import NavBar from './components/NavBar'
 import ItemListContainer from './ItemListContainer'
+import {BrowserRouter, Route, Routes} from 'react-router-dom'
+import ItemList, { ItemListOrdenado } from './ItemList'
+import ItemDetailContainer from './components/ItemDetailContainer'
+import Footer from './components/Footer'
 
 function App() {
   
 
   return (
     <>
-      <div className='container-fluid'>
+      <BrowserRouter>
         <NavBar></NavBar>
-        <ItemListContainer saludo={"Recibi tus plantas en casa! Envios en gran Rosario Gratis"}/>
-      </div>
+        <Routes>
+        <Route path="/" element={<ItemListContainer/>}></Route>
+        <Route path="/catalogo" element={<ItemList/>}></Route>
+        <Route path="/item/:id"element={<ItemDetailContainer/>}></Route>
+        <Route path='/categoria/:idCategoria' element={<ItemListContainer/>}/> 
+        
+        </Routes>   
+        <Footer></Footer>     
+        </BrowserRouter>
     </>
   )
 }

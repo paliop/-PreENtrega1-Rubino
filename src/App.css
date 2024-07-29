@@ -2,3 +2,40 @@
   margin: 0px;
   padding: 0px;
 }
+
+.tit1{
+  color: #F8E437;
+  
+}
+
+.tit2{
+  font-family: "Jost", sans-serif;
+  color: #8CF3B5;
+}
+.tit3{
+  color: beige;
+}
+
+.boton1{
+  background-color: #F8E437;
+  border: 0px;
+  color: beige;
+  
+}
+
+.boton1:hover{
+  background-color: #C6C866;
+  border: 0px;
+  color: beige;
+}
+
+.boton2{
+  border : 2px solid #F8E437;
+  padding: 7px;
+  color: #F8E437;
+}
+.boton2:hover{
+  background-color: #C6C866;
+  border: 0px;
+  color: beige;
+}

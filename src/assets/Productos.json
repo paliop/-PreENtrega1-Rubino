@@ -1,0 +1,29 @@
+[{"id":1,"nombreProdu":"Potus Lemon","stock":2,"precio":7800,"categoria":"PlantasInterior","subCategoria":"interior", "imagen":"https://i.postimg.cc/zf3R29Yq/pot2.jpg", "cuidados":"luz indirecta, riego medio, indiferencia de humedad"},
+{"id":2,"nombreProdu":"Alocacia","stock":3,"precio":8500,"categoria":"PlantasInterior","subCategoria":"interior", "imagen":"https://i.postimg.cc/Lsy3nt28/id2im.jpg" , "cuidados":"luz indirecta, riego abundate, humedad de ambiente"},
+{"id":3,"nombreProdu":"Philodendro","stock":4,"precio":6500,"categoria":"PlantasInterior","subCategoria":"interior", "imagen":"https://i.postimg.cc/wv7cJ1jc/id3im.jpg", "cuidados":"luz indirecta, riego medio, indiferencia de humedad"},
+{"id":4,"nombreProdu":"Pilea", "stock":4, "precio":9000,"categoria":"PlantasInterior","subCategoria":"interior", "imagen":"https://i.postimg.cc/FR8bxhft/id4im.jpg", "cuidados":"luz indirecta, riego medio, indiferencia de humedad", "materiales":"tierra"},
+{"id":5,"nombreProdu":"Calathea mil rayas","stock":5,"precio":12000,"categoria":"PlantasInterior","subCategoria":"interior", "imagen":"https://i.postimg.cc/sxWY6bSM/id5im.jpg","cuidados":"luz indirecta, riego alto, humedad de ambiente"},
+{"id":6,"nombreProdu":"Sterlitzia Nicoali","stock":5,"precio":14000,"categoria":"PlantasInterior","subCategoria":"interior", "imagen":"https://i.postimg.cc/CxSG7PKK/id6im.jpg", "cuidados":"luz directa y abundante, riego alto, humedad de ambiente"},
+{"id":7,"nombreProdu":"Difembachia","stock":2,"precio":8500,"categoria":"PlantasInterior","subCategoria":"interior", "imagen":"https://i.postimg.cc/HW89k8KT/id7im.jpg", "cuidados":"luz baja, riego alto, humedad de ambiente"},
+{"id":8,"nombreProdu":"Cordatum","stock":3,"precio":6800,"categoria":"PlantasInterior","subCategoria":"interior", "imagen":"https://i.postimg.cc/VLj9jQmT/id8im.jpg" , "cuidados":"luz indirecta, riego alto, indiferencia de humedad"},
+{"id":9,"nombreProdu":"Pino Lemon","stock":5,"precio":5500,"categoria":"PlantasExterior","subCategoria":"exterior", "imagen":"https://i.postimg.cc/fT4jtTnm/id9im.jpg", "cuidados":"luz directa y abundante, riego alto, indiferencia de humedad"},
+{"id":10,"nombreProdu":"Naranjo","stock":6,"precio":12300,"categoria":"PlantasExterior","subCategoria":"exterior", "imagen":"https://i.postimg.cc/R00c5WK5/id10im.jpg", "cuidados":"luz directa y abundante, riego medio, indiferencia de humedad"},
+{"id":11,"nombreProdu":"Equisetum","stock":2,"precio":9200,"categoria":"PlantasExterior","subCategoria":"exterior", "imagen":"https://i.postimg.cc/13BpjGgr/id11im.jpg", "cuidados":"luz directa y abundante, riego alto, humedad de ambiente"},
+{"id":12,"nombreProdu":"Terrario Frasco","stock":3,"precio":25600,"categoria":"Terrario", "imagen":"https://i.postimg.cc/R0bwMvL3/id12im.jpg"},
+{"id":13,"nombreProdu":"Terrario Vaso","stock":3,"precio":22300,"categoria":"Terrario", "imagen":"https://i.postimg.cc/qRhyqW11/id13im.jpg"},
+{"id":14,"nombreProdu":"Terrario Globo","stock":4,"precio":28300,"categoria":"Terrario", "imagen":"https://i.postimg.cc/ZRG3djg4/id14im.jpg"},
+{"id":15,"nombreProdu":"Hidario Vaso","stock":2,"precio":22400,"categoria":"Hidrario", "imagen":"https://i.postimg.cc/PJ1DzYsZ/id15im.jpg"}
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
