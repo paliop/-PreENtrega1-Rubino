@@ -5,22 +5,37 @@
 
 .tit1{
   color: #F8E437;
+  text-decoration: none;
   
 }
 
 .tit2{
   font-family: "Jost", sans-serif;
   color: #8CF3B5;
+  text-decoration: none;
 }
 .tit3{
   color: beige;
 }
-
+.tit4{
+  color: #D7DB11;
+  font-size:large;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+}
+.tit5{
+  color: white;
+  font-size:large;
+  font-family: "Lexend Deca", sans-serif;
+  font-weight: 800;
+  text-decoration: none;
+}
 .boton1{
   background-color: #F8E437;
   border: 0px;
   color: beige;
-  
+  text-decoration: none;
 }
 
 .boton1:hover{
@@ -33,9 +48,31 @@
   border : 2px solid #F8E437;
   padding: 7px;
   color: #F8E437;
+  text-decoration: none;
+  background-color: white;
 }
 .boton2:hover{
   background-color: #C6C866;
   border: 0px;
   color: beige;
+}
+.boton3{
+  background-color: beige ;
+  border: 2px solid beige;
+  color: #8CF3B5;
+}
+.boton3:hover{
+  background-color: gainsboro;
+  border: 0px;
+  color: #8CF3B5;
+}
+
+Link{
+  text-decoration: none;
+}
+li{
+  color: #8CF3B5;;
+}
+a{
+  text-decoration: none;
 }
