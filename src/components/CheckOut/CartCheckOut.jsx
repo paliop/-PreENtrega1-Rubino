@@ -2,7 +2,7 @@ import { useState, useContext } from "react";
 import { CartContextt } from "../../Context/CartContext.jsx";
 import { Timestamp, addDoc, collection } from "firebase/firestore";
 import FormularioCheckOut from "./FormularioCheckOut";
-import { db } from "../../db/db.js";
+import db from "../../db/db.js";
 import ValidateForm from "../../utils/validacionForm.js";
 import Swal from 'sweetalert2'
 

@@ -1,7 +1,4 @@
 
-import Arbol from './Arbol'
-
-
 import { Link } from "react-router-dom" 
 const ItemList = ({productos}) =>{
         

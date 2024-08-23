@@ -1,7 +1,7 @@
 import { React, useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { getDocs, collection, query, where } from "firebase/firestore";
-import { db } from "../../db/db.js";
+import db from "../../db/db.js";
 
 const ItemListSmall = ({ categoriaProd, itemId }) => {
   const [productos, setProductos] = useState([]);

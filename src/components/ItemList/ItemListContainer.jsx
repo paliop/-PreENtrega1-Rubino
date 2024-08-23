@@ -4,7 +4,7 @@ import { useParams } from "react-router-dom";
 import ItemList from "./ItemList.jsx";
 
 import { getDocs, collection, query, where, orderBy } from "firebase/firestore";
-import { db } from "../../db/db.js";
+import db from "../../db/db.js";
 
 import Arbol from "./Arbol.jsx";
 
